@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "grpseq"]
 	path = grpseq
 	url = https://github.com/cran/grpseq
-	shallow = true
-	registered = true
 [submodule "rmt"]
 	path = rmt
 	url = https://github.com/cran/rmt
-	shallow = true
-	registered = true
 [submodule "WA"]
 	path = WA
 	url = https://github.com/cran/WA
-	shallow = true
-	registered = true
 [submodule "Wcompo"]
 	path = Wcompo
 	url = https://github.com/cran/Wcompo
-	shallow = true
-	registered = true
 [submodule "WR"]
 	path = WR
 	url = https://github.com/cran/WR
-	shallow = true
-	registered = true
